@@ -14,4 +14,3 @@
 
 - **Frontend:** HTML, CSS, JavaScript, [Vite](https://vitejs.dev/) for fast development.
 - **API Integration:** [Visual Crossing Weather API](https://www.visualcrossing.com/).
-- **Deployment:** [Netlify](https://www.netlify.com/).
